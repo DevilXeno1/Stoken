@@ -57,7 +57,7 @@
     "cheerio": "^1.0.0-rc.10",
     "gradient-string": "^2.0.2",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "github:ramadanny/libsignal-node",
+    "libsignal": "npm:@levvicode/libsignal-node",
     "lodash": "^4.17.21",
     "lru-cache": "^11.1.0",
     "music-metadata": "^7.12.3",
@@ -68,7 +68,7 @@
     "ws": "^8.13.0"
   },
   "devDependencies": {
-    "@adiwajshing/eslint-config": "github:ramadanny/eslint-config",
+        "@adiwajshing/eslint-config": "npm:@levvicode/eslint-config",
     "@types/got": "^9.6.11",
     "@types/jest": "^27.5.1",
     "@types/node": "^16.18.126",
